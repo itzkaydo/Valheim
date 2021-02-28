@@ -1,0 +1,6 @@
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\shieldsupporter.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Valheim_SystemX32\bin\x64\Release\shieldsupporter.dll
+C:\Users\jacob\Desktop\Valheim_SystemX32\bin\x64\Release\shieldsupporter.pdb
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\shieldsupporter.dll
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\shieldsupporter.pdb
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\shieldsupporter.csprojAssemblyReference.cache

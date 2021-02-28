@@ -1,0 +1,6 @@
+C:\Users\jacob\Desktop\Valheim_SystemX32\bin\x64\Release\Menu.dll
+C:\Users\jacob\Desktop\Valheim_SystemX32\bin\x64\Release\Menu.pdb
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\Menu.csprojAssemblyReference.cache
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\Menu.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\Menu.dll
+C:\Users\jacob\Desktop\Valheim_SystemX32\obj\x64\Release\Menu.pdb
